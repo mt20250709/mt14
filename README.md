@@ -10,4 +10,4 @@
 
 这些平台为你提供了多样的视频选择，涵盖各类综艺、电影和成人内容，方便你随时随地在线观看。每个视频资源都拥有高清画质，保证播放流畅无卡顿。用户可以根据自己的兴趣爱好选择观看各种类别，享受不一样的娱乐体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mt20250709/mt14 ）</span>
